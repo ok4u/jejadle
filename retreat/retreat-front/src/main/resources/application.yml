@@ -47,7 +47,7 @@ server.port: 8080
 spring.datasource:
   url: jdbc:mysql://localhost:3306/retreat
   username: retreat
-  password: retreat
+  password: retreat1
   driver-class-name: com.mysql.jdbc.Driver
   testOnBorrow: true
   validationQuery: SELECT 1
